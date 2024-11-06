@@ -30,4 +30,3 @@ To run the Jupyter Notebook (`stack_overflow_complete_analysis.ipynb`), you will
   
  
 [Read the full blog post here](Data_Science_NanoDegree/Data%20Science%20Blog%20Post/Data_Science_Blog_Post.md)
-
