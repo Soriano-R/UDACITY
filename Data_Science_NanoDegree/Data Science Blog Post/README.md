@@ -29,5 +29,5 @@ To run the Jupyter Notebook (`stack_overflow_complete_analysis.ipynb`), you will
   - **seaborn** ([GitHub](https://github.com/mwaskom/seaborn))
   
  
-[Read the full blog post here](Data_Science_NanoDegree/Data\ Science\ Blog\ Post/data_science_blog_post.md)
+[Read the full blog post here](/Users/soriano/Documents/Macbook/Github/UDACITY/Data_Science_NanoDegree/Data Science Blog Post/data_science_blog_post.md)
 
