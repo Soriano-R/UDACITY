@@ -27,6 +27,5 @@ To run the Jupyter Notebook (`stack_overflow_complete_analysis.ipynb`), you will
   - **pandas** ([GitHub](https://github.com/pandas-dev/pandas))
   - **matplotlib** ([GitHub](https://github.com/matplotlib/matplotlib))
   - **seaborn** ([GitHub](https://github.com/mwaskom/seaborn))
-  
 
-[Read the full blog post here](Data_Science_NanoDegree/Data Science Blog Post/Data_Science_Blog_Post.md)
+A blog can be found on ([Medium.com](https://medium.com/@soriano.r242/exploring-developer-salaries-key-insights-from-the-stack-overflow-survey-ce90e2207992))
